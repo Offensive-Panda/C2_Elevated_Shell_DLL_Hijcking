@@ -14,4 +14,7 @@ DLL Hijacking and Mock directories technique to bypass Windows UAC security feat
 ![1_h-WeaeVpN6P7F5Z6M_kKdA](https://user-images.githubusercontent.com/76246439/160832352-1d89318f-879d-400b-8644-41870958afa0.png)
 ![1_n9Px514ZD_KLLmSu3z4bug](https://user-images.githubusercontent.com/76246439/160832398-b9330b4f-00b7-47df-8bb3-00ed78577396.png)
 
+# Only for educational purposes.
+
+
 
